@@ -1,0 +1,10 @@
+<resources>
+<style name="Theme.Alefba" parent="Theme.Material3.Light.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowLightStatusBar">true</item>
+    <item name="android:statusBarColor">#F7F3EA</item>
+    <item name="android:navigationBarColor">#F7F3EA</item>
+    <item name="colorPrimary">#C9932D</item>
+    <item name="colorSecondary">#5E6F63</item>
+</style>
+</resources>
